@@ -11,6 +11,9 @@ while(i * i <= x):
     if temp: count.append(temp)
     i += 2
 
+if x > 2:
+    count.append(1)
+
 factors = 1
 for i in count:
     factors *= (i+1)
