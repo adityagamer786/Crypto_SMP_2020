@@ -2,7 +2,7 @@
 
 Steps to be followed during Submission of Assignment:
 
-1)Fork the Repository
+1) Fork the Repository
 
 2) Clone the forked Repo: https://github.com/your-username/Crypto_SMP_2020.git
 
