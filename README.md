@@ -18,7 +18,7 @@ Steps to be followed during Submission of Assignment:
        
        git commit -m "Assignment_No" // Commit message
        
-       git push origin master // Pushing changes to forked repo
+       git push origin master // Pushing changes
 
 5) Login to github and send a pull request to IE-NITK/Crypto_SMP_2020* To configure upstream:
     
